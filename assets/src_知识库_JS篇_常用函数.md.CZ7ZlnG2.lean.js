@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.DeKlvjH9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/知识库/JS篇/常用函数.md","filePath":"src/知识库/JS篇/常用函数.md"}'),a={name:"src/知识库/JS篇/常用函数.md"};function s(c,o,n,_,p,d){return r(),t("div")}const f=e(a,[["render",s]]);export{m as __pageData,f as default};
