@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.BM2i9-bh.js";const c=JSON.parse('{"title":"替换","description":"","frontmatter":{},"headers":[],"relativePath":"src/JS常用/替换.md","filePath":"src/JS常用/替换.md"}'),l={name:"src/JS常用/替换.md"},h=n("",35),t=[h];function k(p,e,E,r,g,d){return a(),i("div",null,t)}const F=s(l,[["render",k]]);export{c as __pageData,F as default};

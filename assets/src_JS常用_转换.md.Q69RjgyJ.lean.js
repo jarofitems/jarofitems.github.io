@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as t}from"./chunks/framework.BM2i9-bh.js";const c=JSON.parse('{"title":"转换","description":"","frontmatter":{},"headers":[],"relativePath":"src/JS常用/转换.md","filePath":"src/JS常用/转换.md"}'),h={name:"src/JS常用/转换.md"},n=t("",9),l=[n];function k(p,e,r,E,d,o){return a(),i("div",null,l)}const y=s(h,[["render",k]]);export{c as __pageData,y as default};
